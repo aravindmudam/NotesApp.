@@ -25,7 +25,7 @@
     </projectState>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -33,12 +33,12 @@
     &quot;assignee&quot;: &quot;aravindmudam&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/aravindmudam/NotesApp.git&quot;,
-    &quot;accountId&quot;: &quot;83bf2ebf-e708-4cb8-90c8-092f127fc7e6&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/aravindmudam/NotesApp..git",
+    "accountId": "83bf2ebf-e708-4cb8-90c8-092f127fc7e6"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -53,11 +53,11 @@
     "RunOnceActivity.cidr.known.project.marker": "true",
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "android.gradle.sync.needed": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/gundl/Downloads/NotesAppFinal/NotesApp",
+    "last_opened_file_path": "C:/Users/gundl/Downloads/NotesAppV3/NotesAppv3",
     "settings.editor.selected.configurable": "device.mirroring"
   },
   "keyToStringList": {
