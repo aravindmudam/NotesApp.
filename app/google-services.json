@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1095979107318",
+    "project_id": "notes-app-b1cdc",
+    "storage_bucket": "notes-app-b1cdc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095979107318:android:47b59868d8d1bb88a73dd7",
+        "android_client_info": {
+          "package_name": "uk.ac.tees.mad.w9646370"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYuacf3NZfCyZXmBUX-diKZrPlsH-PeDE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
